@@ -1,2 +1,2 @@
-print("Heelo world")
-print("New")
+def check2():
+    print("successfully")
