@@ -1,2 +1,2 @@
 def check():
-    print("good")
+    print("nice")
